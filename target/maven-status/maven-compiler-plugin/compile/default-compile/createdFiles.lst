@@ -1,0 +1,8 @@
+screens\MainScreen$1.class
+screens\ScreenFilter$1.class
+main.class
+services\FilterDuplicates.class
+screens\ScreenFilter$2.class
+services\SearchFilterDuplicates.class
+screens\MainScreen.class
+screens\ScreenFilter.class
